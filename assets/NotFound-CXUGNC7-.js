@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as c}from"./index-DUHG47N5.js";const o={},n={class:"w-[100%] h-[100%] flex items-center justify-center text-[48px]"};function s(r,_){return c(),t("div",n,"Not found")}const f=e(o,[["render",s]]);export{f as default};
